@@ -21,4 +21,4 @@ This is a todo app that people commonly develop while learning React. I feel so 
  - The background color of the todos changes dynamically according to the remaining time
  - All todos save to LocalStrage
 
-###  [Click for demo site](google.com)
+###  [Click for demo site](https://basic-todozz.netlify.app/)
